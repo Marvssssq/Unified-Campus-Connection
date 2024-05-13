@@ -113,13 +113,14 @@ nav{
 }
 
 .ans{
-    line-height: 32px;
+    line-height: 35px;
     color: #fff;
     margin-top: 20px;
     background-color: rgba(36, 34, 32, 0.788);
     padding: 12px 0px 12px 0px;
     cursor: pointer;
     border-radius: 20px;
+
 }
 
 .my-alpha{
@@ -128,6 +129,8 @@ nav{
     padding: 16px;
     background-color: rgba(196, 194, 194, 0.658);
     margin-right: 10px;
+    border-radius: 16px 0px 0px 16px;
+
 }
 
 
